@@ -1,0 +1,13 @@
+.svn
+.fis-tmp
+.DS_Store
+.module-cache
+.scss-cache
+.sass-cache
+.cache
+._*
+*副本*
+.tmp
+.gulp
+.swp
+.idea
