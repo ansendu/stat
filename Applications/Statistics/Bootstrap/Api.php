@@ -81,8 +81,6 @@ class Api
 
     public static function onMessage($connection, $data)
     {
-
-        var_dump($data);
         // 解码
         $module = $data['module'];
         $interface = $data['interface'];
